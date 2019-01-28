@@ -1,0 +1,51 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.01.2015 12:40:22
+
+newmtl 03___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\turbos works\chair set\wood37 diffuse.jpg
+	map_Kd E:\turbos works\chair set\wood37 diffuse.jpg
+	map_bump E:\turbos works\chair set\wood37 bump.jpg
+	bump E:\turbos works\chair set\wood37 bump.jpg
+
+newmtl 04___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\turbos works\chair set\bubinga_gemasert_color.jpg
+	map_Kd E:\turbos works\chair set\bubinga_gemasert_color.jpg
+	map_bump E:\turbos works\chair set\bubinga_gemasert_bump.jpg
+	bump E:\turbos works\chair set\bubinga_gemasert_bump.jpg
+
+newmtl 05___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\turbos works\chair set\wicker.jpg
+	map_Kd E:\turbos works\chair set\wicker.jpg
+	map_d E:\turbos works\chair set\wicker-opacity.jpg
+	map_bump E:\turbos works\chair set\wicker-bumpdisplace.jpg
+	bump E:\turbos works\chair set\wicker-bumpdisplace.jpg
